@@ -1,4 +1,4 @@
-# ASL Recognition System
+# 🤟ASL Recognition System
 
 An End-to-End American Sign Language (ASL) Recognition System using Deep Learning to identify American Sign Language hand gestures from uploaded or captured images through an interactive web interface.
 
